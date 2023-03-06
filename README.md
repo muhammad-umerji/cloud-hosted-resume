@@ -2,9 +2,9 @@
 
 In this repository is the codebase that will be needed in order to host a resume in AWS. We've included the HTML and CSS that you can edit to make the resume custom to you.
 
-Please checkout the [following](https://anddigitaltransformation.atlassian.net/wiki/spaces/CNI/pages/4372070475/Baseline+Cloud+Host+Resume+Guide) guide for a free version of hosting.
+Please checkout the [following](https://drive.google.com/file/d/1n6Sc0UgdwPV2axC0F5mM5Kf8sVVVUJp4/view?usp=sharing) guide for a free version of hosting.
 
-Please checkout the [following](https://anddigitaltransformation.atlassian.net/wiki/spaces/CNI/pages/4373872801/Cloud+Hosted+Resume+-+Using+GoDaddy) guide for a paid for version of the resume using a custom DNS name.
+Please checkout the [following](https://drive.google.com/file/d/1Qz4HrfChr5fPvh9VtxDcFGZlTLjxVcut/view?usp=sharing) guide for a paid for version of the resume using a custom DNS name.
 
 ```
 Template Name: Cloud Hosted Resume template
