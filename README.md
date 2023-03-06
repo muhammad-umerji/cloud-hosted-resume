@@ -4,7 +4,7 @@ In this repository is the codebase that will be needed in order to host a resume
 
 Please checkout the [following](https://docs.google.com/document/d/13umPTQTPTK8b0SVYZLKFCvFrgFWAQOzCmLobFMUrPcI/edit?usp=sharing) guide for a free version of hosting.
 
-Please checkout the [following](https://drive.google.com/file/d/1Qz4HrfChr5fPvh9VtxDcFGZlTLjxVcut/view?usp=sharing) guide for a paid for version of the resume using a custom DNS name.
+Please checkout the [following](https://docs.google.com/document/d/14tSKmdfaP7peFz6IEqk_O3UpeeFfU3XKNPSXtoFOrFU/edit?usp=sharing) guide for a paid for version of the resume using a custom DNS name.
 
 ```
 Template Name: Cloud Hosted Resume template
